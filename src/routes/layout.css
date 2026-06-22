@@ -10,6 +10,10 @@
   h1 {
     font-weight: 700;
   }
+  ul {
+    list-style: disc;
+    padding-left: 1rem;
+  }
   a {
     color: var(--color-link);
     &:hover {

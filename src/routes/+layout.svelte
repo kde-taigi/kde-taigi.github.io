@@ -10,8 +10,8 @@
   <nav class="p-2">
     <ul class="flex gap-1">
       <li><a href="/">頭頁</a></li>
-      <li><a href="/about">紹介</a></li>
-      <li><a href="/glossary">用詞</a></li>
+      <!-- <li><a href="/about">紹介</a></li>
+           <li><a href="/glossary">用詞</a></li> -->
     </ul>
   </nav>
 </header>
