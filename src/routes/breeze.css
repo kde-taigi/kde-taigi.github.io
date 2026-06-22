@@ -1,0 +1,58 @@
+/**
+ * Breeze palette for Radix.
+ * Generated with https://www.radix-ui.com/colors/custom then converted for kde-projects.kisaragi-hiu.com.
+ * Then manually converted to CSS.
+ */
+@theme {
+  --color-breezeblueDark-1: #151f25;
+  --color-breezeblueDark-2: #17232a;
+  --color-breezeblueDark-3: #113244;
+  --color-breezeblueDark-4: #003d58;
+  --color-breezeblueDark-5: #034867;
+  --color-breezeblueDark-6: #157;
+  --color-breezeblueDark-7: #1c668c;
+  --color-breezeblueDark-8: #207caa;
+  --color-breezeblueDark-9: #3daee9;
+  --color-breezeblueDark-10: #2da2dd;
+  --color-breezeblueDark-11: #65c3f8;
+  --color-breezeblueDark-12: #bfe7ff;
+  --color-breezeblue-1: #f7fafc;
+  --color-breezeblue-2: #eff7fc;
+  --color-breezeblue-3: #e1f1fc;
+  --color-breezeblue-4: #cdebfe;
+  --color-breezeblue-5: #b8e3fe;
+  --color-breezeblue-6: #9fd6f9;
+  --color-breezeblue-7: #7dc6f2;
+  --color-breezeblue-8: #40b0eb;
+  --color-breezeblue-9: #3daee9;
+  --color-breezeblue-10: #2da2dd;
+  --color-breezeblue-11: #0078b0;
+  --color-breezeblue-12: #00395b;
+  --color-gray-1: #f8f9f9;
+  --color-gray-2: #f5f5f6;
+  --color-gray-3: #ebeced;
+  --color-gray-4: #e3e4e5;
+  --color-gray-5: #dbddde;
+  --color-gray-6: #d3d5d6;
+  --color-gray-7: #c8cacb;
+  --color-gray-8: #b5b7b8;
+  --color-gray-9: #88898a;
+  --color-gray-10: #7d7f80;
+  --color-gray-11: #5f6061;
+  --color-gray-12: #1f2021;
+  --color-grayDark-1: #1c1e20;
+  --color-grayDark-2: #232527;
+  --color-grayDark-3: #2b2d30;
+  --color-grayDark-4: #303337;
+  --color-grayDark-5: #353a3e;
+  --color-grayDark-6: #3c4147;
+  --color-grayDark-7: #484e54;
+  --color-grayDark-8: #5e666e;
+  --color-grayDark-9: #6a727b;
+  --color-grayDark-10: #767e87;
+  --color-grayDark-11: #aeb5bd;
+  --color-grayDark-12: #eceef0;
+  --color-background: #fcfcfc;
+  --color-backgroundDark: #1b1e20;
+  --color-link: #1d99f3;
+}

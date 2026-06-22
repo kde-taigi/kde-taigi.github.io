@@ -1,6 +1,19 @@
 @import "tailwindcss";
 @import "../lib/assets/Charis/Charis-webfont.css";
+@import "./breeze.css";
 
 @theme {
   --font-sans: "Charis", sans-serif;
+}
+
+.prose {
+  h1 {
+    font-weight: 700;
+  }
+  a {
+    color: var(--color-link);
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
