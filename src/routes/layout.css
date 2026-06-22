@@ -1,5 +1,6 @@
 @import "tailwindcss";
+@import "../lib/assets/Charis/Charis-webfont.css";
 
 @theme {
-  --font-sans: "Iosevka", sans-serif;
+  --font-sans: "Charis", sans-serif;
 }

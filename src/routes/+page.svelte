@@ -1,2 +1,5 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<h1>Huan-gîng sú-iōng SvelteKit</h1>
+<p>
+  Tshiánn pài-hóng <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> lâi tha̍k bûn-kiānn
+</p>
+<p>(test)</p>
