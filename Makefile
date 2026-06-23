@@ -1,20 +1,20 @@
 dev:
-	dx vite dev
+	deno x vite dev
 
 build:
-	dx vite build
+	deno x vite build
 
 sync:
-	dx svelte-kit sync
+	deno x svelte-kit sync
 
 check: sync
-	dx svelte-check --tsconfig ./tsconfig.json
+	deno x svelte-check --tsconfig ./tsconfig.json
 
 check.watch: sync
-	dx svelte-check --tsconfig ./tsconfig.json --watch
+	deno x svelte-check --tsconfig ./tsconfig.json --watch
 
 lint:
-	dx prettier --check .
+	deno x prettier --check .
 
 format:
-	dx prettier --write .
+	deno x prettier --write .
