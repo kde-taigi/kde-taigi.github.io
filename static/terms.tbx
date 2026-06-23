@@ -1,0 +1,4228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<martif type="TBX" xml:lang="en-US">
+  <martifHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>KDE Taigi</title>
+      </titleStmt>
+      <sourceDesc>
+        <p></p>
+      </sourceDesc>
+    </fileDesc>
+  </martifHeader>
+  <text>
+    <body>
+        
+      <termEntry id="eid-1">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>OK</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>好</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>hó</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-2">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>shortcut</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>快速齒</term>
+                      <admin type="source">公視台語新詞辭庫</admin>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>khuài-sok-khí</term>
+                      <admin type="source">公視台語新詞辭庫</admin>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="zh-TW">
+              <ntig>
+                  <termGrp>
+                      <term>快捷鍵</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-3">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>keyboard</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>齒盤</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>khí-puânn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-4">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>action</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>動作</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>tōng-tsok</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-5">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>anonymous</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>匿名</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>li̍k-miâ</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term></term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-6">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>delete</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>刣掉</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>thâi-tiāu</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-7">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>user</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>iōng-tsiá</term>
+                      <admin type="source">zh-min-nan.wikipedia.org</admin>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>用者</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-8">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>terminal</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>終端機</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>tsiong-tuan-ki</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-9">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>author</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>作者</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>tsok-tsiá</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-10">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>application</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>應用程式</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>ìng-iōng-tîng-sik</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-11">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>app</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>app</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-12">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>license</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>授權</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>siū-khuân</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-13">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>template</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>枋模</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>pang-pôo</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-14">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>toolbar</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>工具列</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>kang-kū-lia̍t</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-15">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>move to trash</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>suá 去糞埽桶</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>suá khì pùn-sò-tháng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-16">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>move to</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>suá 到</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>suá kàu</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-17">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>move</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>徙位</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>suá</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>suá-uī</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-18">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>copy</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>khóo-pih</term>
+                      <admin type="source">公視台語新詞辭庫</admin>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-19">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>undo</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>復原</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>ho̍k-guân</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-20">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>redo</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>取消復原</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>tshú-siau ho̍k-guân</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-21">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>folder</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>資料鋏仔</term>
+                      <admin type="source">公視台語新詞辭庫</admin>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>tsu-liāu-giap-á</term>
+                      <admin type="source">公視台語新詞辭庫</admin>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-22">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>file</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>檔案</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>tóng-àn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-23">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>menu</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>選單</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>suán-tuann</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-24">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>error</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>錯誤</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>tshò-gōo</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-25">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>cancel</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>取消</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>tshú-siau</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-26">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>Bookmark</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>Su-tshiam</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>書籤</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-27">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>Responsive</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>Hiáng-ìng-sik</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>響應式</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-28">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>wallet</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsînn-pau</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>錢包</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-29">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>theme</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsú-tê</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>主題</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-30">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>plugin</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>guā-kuà-tîng-sik</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>外掛程式</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-31">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>load</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsài-ji̍p</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>載入</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>lóo</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-32">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>library</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>hâm-sik-khòo</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>函式庫</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-33">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>create</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kiàn-li̍p</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>建立</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-34">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>instance</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>si̍t-thé</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>實體</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-35">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>executable</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsip-hîng-tóng</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>執行檔</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-36">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>error code</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tshò-gōo tāi-bé</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>錯誤代碼</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-37">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>extension</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>khok-tshiong-kong-lîng</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>擴充功能</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-38">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>next</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>ē-tsi̍t-ê</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-39">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>metadata</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>āu-siat-tsu-liāu</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>後設資料</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-40">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>embed</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>安入</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-41">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>remote</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>uán-tuan</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>遠端</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-42">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>replace</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tshú-tāi</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>取代</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-43">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>size</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tuā-sè</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-44">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>location</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>uī-tì</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-45">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>context</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>lāi-bûn</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>內文</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-46">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>certificate</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>pîn-tsìng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="zh-TW">
+              <ntig>
+                  <termGrp>
+                      <term>pîn-tsìng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-47">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>chain</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>liān</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>鍊</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-48">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>address</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>uī-tsí</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-49">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>encryption</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>ka-bi̍t</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>加密</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-50">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>refresh</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tîng tsíng-lí</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-51">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>device</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsong-tì</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>裝置</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-52">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>filter bar</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kè-lī-lia̍t</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-53">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>filter</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kè-lī (verb)</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>lī-á (noun)</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-54">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>browse</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>liû-lám</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-55">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>save</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tû-tsûn</term>
+                      <admin type="source">公視台語新詞辭庫</admin>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>儲存</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>thû-tsûn</term>
+                      <termNote type="transferComment">偏好使用公視台語新詞辭典</termNote>
+                      <termNote type="normativeAuthorization">deprecated</termNote>
+                      <admin type="source">台文華文線頂辭典</admin>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-56">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>read</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>reading</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tho̍k-tshú</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-57">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>tab</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>hun-ia̍h</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-58">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>window</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>sī-thang</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-59">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>this action cannot be undone</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsit-ê tōng-tsok bô-huat-tōo ho̍k-guân</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-60">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>date</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>ji̍t-kî</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-61">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>descending</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kiám-sū</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-62">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>ascending</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsing-sū</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-63">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>hidden file</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>ún-tsông-tóng-àn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-64">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>symlink</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>symbolic link</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>hû-hō-liân-kiat</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-65">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>path</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>lōo-kìng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-66">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>statusbar</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsōng-thài-lia̍t</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-67">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>reset</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>Tîng-thâu-siat</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>重頭設</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>Tîng-siat</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>重設</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-68">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>skip</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>thiàu-kuè</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-69">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>fail</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>sit-pāi</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-70">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>upload</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsiūnn-thuân</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-71">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>malformed</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>put-tsìng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-72">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>explore</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>thàm-sik</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-73">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>host</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsú-ki</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-74">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>unknown</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>m̄-tsai ê</term>
+                      <termNote type="partOfSpeech">adj</termNote>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>put-bîng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-75">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>access</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsûn-tshú</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-76">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>denied</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>deny</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kī-tsua̍t</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>拒絕</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-77">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>implement</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>si̍t-tsoh</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-78">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>link</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>liân-kiat</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>連結</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-79">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>cyclic</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>sûn-khuân</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-80">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>could not</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>cannot</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>unable</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>Cannot</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>bô-huat-tōo</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>無法度</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-81">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>write</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>siá-ji̍p</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-82">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>start</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>launch</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>khí-tōng</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>起動</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-83">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>process</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tîng-sū</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>程序</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-84">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>accept</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsiap-siū</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>接受</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-85">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>server</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>sù-ho̍k-khì</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>伺服器</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-86">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>access permissions</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsûn-tshú-khuân</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-87">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>permissions</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>khuân-hān</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-88">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>protocol</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>hia̍p-tīng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-89">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>resource</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsu-guân</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-90">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>username</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>iōng-tsiá-miâ</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-91">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>site</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>website</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>bāng-tsām</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-92">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>account</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kháu-tsō</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-93">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>search</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tshiau-tshuē</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-94">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>image</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>iánn-siōng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-95">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>group</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kûn-tsoo</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-96">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>documentation</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>bûn-kiānn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-97">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>these</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsia-ê</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-98">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>advanced</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsìn-kai</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-99">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>advanced options</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>siông-sè suán-hāng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-100">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>global</term>
+                      <termNote type="partOfSpeech">adj</termNote>
+                  </termGrp>
+              </ntig>
+              <descripGrp>
+                  <descrip type="definition">Applies to the entire environment.</descrip>
+              </descripGrp>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsuân-i̍k</term>
+                      <termNote type="transferComment">For lack of an existing term, I chose to orthographically borrow from KDE zh_TW.</termNote>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>全域</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-101">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>alternate</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tāi-thè</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-102">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>reassign</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tîng tsí-phài</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-103">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>owner</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>sóo-iú-tsiá</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-104">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>command</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsí-līng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-105">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>download</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>hā-tsài</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-106">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>directory</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>bo̍k-lo̍k</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-107">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>disable</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tîng-iōng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-108">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>enable</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>khé-iōng</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>啟用</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-109">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>special</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>ti̍k-pia̍t</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-110">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>preview</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>ī-lám</term>
+                      <admin type="source">公視台語新詞辭庫</admin>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>預覽</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-111">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>extend</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>khok-tshiong</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-112">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>clear</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>C&amp;lear</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tshing-tû</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-113">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>list</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tuann</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-114">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>style</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>hong-keh</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-115">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>color scheme</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>phuè-sik hong-àn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-116">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>tag</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>piau-tshiam</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term></term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-117">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>database</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsu-liāu-khòo</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-118">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>manual</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>handbook</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>hand book</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tshiú-tsheh</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-119">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>reference</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsham-khó</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-120">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>online</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>suànn-tíng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-121">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>reload</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tîng tsài-ji̍p</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-122">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>request</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tshíng-kiû</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-123">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>retry</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tîng-tshì</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-124">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>authentication details</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>credentials</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>jīn-tsìng tsu-sìn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-125">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>search provider</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tshiau-tshuē-thê-kiong-tsiá</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>搜揣提供者</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-126">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>authentication</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>auth</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>jīn-tsìng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-127">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>archive</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>hong-tsûn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-128">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>internet</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>web</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>network</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>bāng-lōo</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-129">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>hidden</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>hide</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>ún-tsông</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-130">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>checksum</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kiám-tsa-bé</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-131">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>clipboard</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsián-tah-phōo</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>剪貼簿</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-132">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>mouse</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>ku̍t-tshí</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-133">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>gesture</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tshiú-sè</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-134">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>shortcut</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsia̍t-kìng</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>捷徑</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-135">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>desktop entry</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>desktop hāng-bo̍k</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-136">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>millisecond</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>hô-bió</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-137">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>revert</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>Re&amp;vert</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>hue-ho̍k</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-138">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>width</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>khuah-tōo</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>闊度</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-139">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>height</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kuân-tōo</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>懸度</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-140">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>browser</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>liû-lám-khì</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-141">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>operation</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tshau-tsok</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-142">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>trash</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>pùn-sò-tháng</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>糞埽桶</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-143">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>restore</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>hue-ho̍k</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-144">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>category</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>luī-pia̍t</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-145">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>source</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>source code</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>guân-sí-bé</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-146">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>framework</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>khing-kè</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-147">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>package</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>thò-kiānn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-148">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>column</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>lân-uī</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-149">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>audio</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>im-sìn (audio signal)</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>im-hāu (audio effect)</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-150">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>video</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>sī-sìn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-151">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>disk</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsû-tia̍p</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-152">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>space</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>khang-king</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-153">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>first</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tī thâu-tsîng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-154">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>pixels</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>uē-sòo</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-155">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>extension</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>hù-tóng-miâ</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-156">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>format</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>keh-sik</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-157">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>status</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsōng-thài</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-158">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>connection</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>liân-suànn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-159">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>hostname</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsú-ki-miâ</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-160">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>search engine</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tshiau-tshuē ia̋n-jín</term>
+                      <admin type="source">公視台語新詞辭庫</admin>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>搜揣 ia̋n-jín</term>
+                      <admin type="source">公視台語新詞辭庫</admin>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-161">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>syntax</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>gí-huat</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-162">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>listen</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kàm-thiann</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-163">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>interrupt</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tiong-tn̄g</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-165">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>port</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>poo-thâu</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-166">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>communication</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>thong-sìn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-167">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>privilege escalation</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>thê-sing khuân-hān</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-168">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>hardware</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>ngē-thé</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-169">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>transfer</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>thuân-su</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>傳輸</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-170">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>loop</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>sûn-khuân</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-171">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>into</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>enter</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>ji̍p-khì</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-172">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>drop</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>pàng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-173">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>kio worker</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kio kang-tsok-khì</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>kio 工作器</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-174">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>mount</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kuà-tsài</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>掛載</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-175">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>unmount</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>sià-tsài</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>卸載</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-176">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>bind</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>páng-tīng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-177">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>popup</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tuânn-tshut</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-178">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>forum</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>lūn-tuânn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-179">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>thesaurus</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tông-gí-sû-tián</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>同義詞典</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-180">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>identifier</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>si̍k-pia̍t-bé</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-181">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>dump</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tó-tshut</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-182">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>remove</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>î-tû</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-183">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>panel</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>bīn-pán</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-184">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>other</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kî-thann</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-185">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>firewall</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>hông-hué-tshiûnn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-186">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>monitor</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kàm-sī-khì</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-187">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>root</term>
+                  </termGrp>
+              </ntig>
+              <descripGrp>
+                  <descrip type="definition">The root user.</descrip>
+              </descripGrp>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>root</term>
+                      <termNote type="partOfSpeech">n</termNote>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-188">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>session</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kang-tsok-kai-tuānn</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>工作階段</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-189">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>initiate</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>initialize</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>初期化</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>tshoo-kî-huà</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-190">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>timeout</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kuè-sî</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>過時</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-191">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>arguments</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsham-sòo</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>參數</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-192">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>properties</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>sio̍k-sìng</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>屬性</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-193">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>mask</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>jia-tà</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>遮罩</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-194">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>parent</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tíng-tsàn</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>頂層</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-195">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>parsed</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>hun-thiah</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>分拆</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-196">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>calendar</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>la̍h-ji̍t</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>曆日</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-197">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>restarting</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tîng-khí-tōng</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>重起動</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-198">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>time zone</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>timezone</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>sî-khu</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>時區</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-199">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>log out</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>logout</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>ting-tshut</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-200">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>wallpaper</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>toh-bīn-puē-kíng</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>桌面背景</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-201">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>font</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>jī-hîng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-202">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>usage</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>sú-iōng-lu̍t</term>
+                      <termNote type="transferComment">像日語。</termNote>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>使用率</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="ja">
+              <ntig>
+                  <termGrp>
+                      <term>使用率</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-203">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>memory</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kì-ik-thé</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>記憶體</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-204">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>apply</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>thò-iōng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-205">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>accent color</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kiông-tiāu-sik</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>強調色</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-206">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>lockscreen</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>só-tīng-îng-bōo</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-207">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>batch rename</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsuân-pōo kái-miâ</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-208">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>file type</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tóng-àn luī</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-209">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>profile</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>siat-tīng-tóng</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-210">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>thread</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>tsip-hîng-sū</term>
+                  </termGrp>
+              </ntig>
+              <ntig>
+                  <termGrp>
+                      <term>執行緒</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-211">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>toolbox</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kang-khū-siunn</term>
+                  </termGrp>
+              </ntig>
+          </langSet>
+      </termEntry>
+
+      <termEntry id="eid-213">
+          <langSet xml:lang="en-US">
+              <ntig>
+                  <termGrp>
+                      <term>root</term>
+                  </termGrp>
+              </ntig>
+              <descripGrp>
+                  <descrip type="example">root group</descrip>
+              </descripGrp>
+          </langSet>
+          <langSet xml:lang="nan-TW">
+              <ntig>
+                  <termGrp>
+                      <term>kin-</term>
+                      <termNote type="partOfSpeech">adj</termNote>
+                  </termGrp>
+              </ntig>
+              <descripGrp>
+                  <descrip type="example">kin-kûn-tsoo</descrip>
+              </descripGrp>
+          </langSet>
+      </termEntry>
+
+    </body>
+  </text>
+</martif>
+          

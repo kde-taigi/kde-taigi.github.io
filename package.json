@@ -4,6 +4,9 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {},
+  "dependencies": {
+    "fast-xml-parser": "^5.9.3"
+  },
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.10",
     "@sveltejs/kit": "^2.63.0",

@@ -1,7 +1,14 @@
-dev:
+# fxp-cli thinks a file that isn't .xml cannot be xml 🙄
+src/lib/assets/terms.json: static/terms.tbx
+	cat "$<" | deno x fxparser -o "$@" 2>/dev/null
+	deno x prettier -w "$@"
+
+DEPS := src/lib/assets/terms.json
+
+dev: $(DEPS)
 	deno x vite dev
 
-build:
+build: $(DEPS)
 	deno x vite build
 
 sync:
