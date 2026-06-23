@@ -14,7 +14,8 @@
     "npm:svelte@^5.56.1": "5.56.3",
     "npm:tailwindcss@^4.3.0": "4.3.1",
     "npm:typescript@^6.0.3": "6.0.3",
-    "npm:vite@^8.0.16": "8.0.16"
+    "npm:vite@^8.0.16": "8.0.16",
+    "npm:zod@^4.4.3": "4.4.3"
   },
   "jsr": {
     "@std/xml@0.1.2": {
@@ -709,6 +710,9 @@
     },
     "zimmerframe@1.1.4": {
       "integrity": "sha512-B58NGBEoc8Y9MWWCQGl/gq9xBCe4IiKM0a2x7GZdQKOW5Exr8S1W24J6OgM1njK8xCRGvAJIL/MxXHf6SkmQKQ=="
+    },
+    "zod@4.4.3": {
+      "integrity": "sha512-ytENFjIJFl2UwYglde2jchW2Hwm4GJFLDiSXWdTrJQBIN9Fcyp7n4DhxJEiWNAJMV1/BqWfW/kkg71UDcHJyTQ=="
     }
   },
   "workspace": {
@@ -729,7 +733,8 @@
         "npm:svelte@^5.56.1",
         "npm:tailwindcss@^4.3.0",
         "npm:typescript@^6.0.3",
-        "npm:vite@^8.0.16"
+        "npm:vite@^8.0.16",
+        "npm:zod@^4.4.3"
       ]
     }
   }
