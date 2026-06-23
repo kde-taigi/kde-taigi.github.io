@@ -20,4 +20,8 @@
       text-decoration: underline;
     }
   }
+  p,
+  li {
+    margin: 0.25rem 0;
+  }
 }
