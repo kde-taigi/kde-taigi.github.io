@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head><link rel="icon" href={favicon} /></svelte:head>
-<div class="md:max-w-[40rem] md:mx-auto">
+<div class="md:w-[40rem] md:mx-auto">
   <Header
     paths={{
       "/": "頭頁",
