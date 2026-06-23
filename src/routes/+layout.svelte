@@ -6,15 +6,17 @@
 </script>
 
 <svelte:head><link rel="icon" href={favicon} /></svelte:head>
-<Header
-  paths={{
-    "/": "頭頁",
-    "/glossary": "用詞",
-  }}
-/>
-<main class="px-2 grow">
-  {@render children()}
-</main>
-<footer class="px-2 py-6 prose">
-  <a class="underline" href="https://github.com/kde-taigi/kde-taigi.github.io">網站原始碼</a>
-</footer>
+<div class="md:max-w-[40rem] md:mx-auto">
+  <Header
+    paths={{
+      "/": "頭頁",
+      "/glossary": "用詞",
+    }}
+  />
+  <main class="px-2 grow">
+    {@render children()}
+  </main>
+  <footer class="px-2 py-6 prose">
+    <a class="underline" href="https://github.com/kde-taigi/kde-taigi.github.io">網站原始碼</a>
+  </footer>
+</div>
