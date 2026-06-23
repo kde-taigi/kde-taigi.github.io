@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@std/xml": "jsr:@std/xml@^0.1.2"
+  }
+}
