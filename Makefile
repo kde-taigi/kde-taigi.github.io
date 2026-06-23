@@ -1,6 +1,7 @@
 # fxp-cli thinks a file that isn't .xml cannot be xml 🙄
 src/lib/assets/terms.json: static/terms.tbx
-	deno run -A scripts/xml2json.ts -i "$<" -o "$@"
+	cat "$<" | deno x fxparser -o "$@" 2>/dev/null
+	deno x prettier -w "$@"
 
 DEPS := src/lib/assets/terms.json
 

@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {},
   "dependencies": {
-    "fast-xml-parser": "^5.9.3",
-    "zod": "^4.4.3"
+    "fast-xml-parser": "^5.9.3"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "^3.0.10",
