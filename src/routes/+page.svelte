@@ -21,4 +21,15 @@
       >
     </li>
   </ul>
+  <h1>風格</h1>
+  <p>
+    nan_TW 是漢羅（教育部漢字 + 臺羅）。Ài 寫白話字嘛 ē-sái，只是我會寫臺羅。標點 kap 空白我這馬是
+    kap 華語仝款遵守 <a href="https://hackmd.io/@l10n-tw/translation_guidelines"
+      >l10n-tw ê 翻譯格式規則</a
+    >。
+  </p>
+  <p>
+    nan_TW@latin 是全羅（臺羅）。仝款是嘛 ē-sái 寫白話字，只是我是寫臺羅。臺羅有指定標點 kap
+    大小寫（基本就是 kap 英語仝款，頭大寫、名大寫、半角標點……），風格會照做。
+  </p>
 </div>
