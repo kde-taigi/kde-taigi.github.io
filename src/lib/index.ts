@@ -1,1 +1,3 @@
-// place files you want to import through the `$lib` alias in this folder.
+export function ensureArray<T>(it: T[] | T): T[] {
+  return Array.isArray(it) ? it : [it];
+}
