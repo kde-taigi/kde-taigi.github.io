@@ -5,7 +5,10 @@
   let { children } = $props();
 </script>
 
-<svelte:head><link rel="icon" href={favicon} /></svelte:head>
+<svelte:head>
+  <title>KDE 台語團隊</title>
+  <link rel="icon" href={favicon} />
+</svelte:head>
 <div class="md:w-[40rem] md:mx-auto">
   <Header
     paths={{
