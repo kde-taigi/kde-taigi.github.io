@@ -2,17 +2,34 @@
   import { ensureArray } from "$lib";
   import data from "$lib/assets/terms.json";
   const entries = $derived(data.martif.text.body.termEntry);
+
+  let input = $state("");
+  let debounced = $derived(input);
+  let timer: ReturnType<typeof setTimeout> | undefined = undefined;
+  // Why this isn't builtin (to JS or Svelte) is beyond me.
+  $effect(() => {
+    clearTimeout(timer);
+    timer = setTimeout(() => {
+      debounced = input;
+    }, 250);
+  });
 </script>
 
-<div class="prose">
+<div class="prose mb-8">
   <p>我會囥我選 ê 用詞 kap 解說來遮。</p>
   <p>用詞這馬我佇 <a href="https://www.terminologue.org/z9m89rsek/">Terminologue</a> 管理。</p>
 </div>
 
-<ul class="space-y-4">
-  {#each entries as entry}
+<input class="w-full border rounded p-2" type="search" bind:value={input} placeholder="過濾項目…" />
+
+<ul class="space-y-4 mt-4">
+  {#each entries.filter((entry) => {
+    if (debounced === "") return true;
+    // HACK but what can we do about it.
+    return JSON.stringify(entry).includes(debounced);
+  }) as entry (entry["@_id"])}
     <li>
-      <div class="shadow-lg rounded relative py-1">
+      <div class="shadow-lg bg-gray-4 rounded relative py-0">
         <div class="absolute top-0 right-0 opacity-50 px-2">
           {entry["@_id"]}
         </div>
@@ -31,13 +48,14 @@
                     (it) => it["@_type"] === "normativeAuthorization",
                   )?.["#text"]}
                   <button
-                    class="text-left hover:text-green-400"
+                    class="text-left hover:text-breezeblue-11 cursor-pointer"
+                    title={`Khóo-pih "${text}"`}
                     onclick={() => {
                       navigator.clipboard.writeText(text);
                     }}
                   >
                     <div class={normativeAuthorization === "deprecated" ? "opacity-50" : undefined}>
-                      {text}
+                      <strong>{text}</strong>
                       {#if normativeAuthorization}
                         ({normativeAuthorization})
                       {/if}
